@@ -1,4 +1,4 @@
-# ml_boilerplate
+# Machine Learning Boilerplate
 
 For the venv:
 
